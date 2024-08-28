@@ -1,0 +1,506 @@
+[
+    {
+        "name": "Classic White Sneakers",
+        "price": 49.99,
+        "description": "Comfortable and stylish white sneakers perfect for everyday wear.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "sneakers_01",
+                "url": "https://example.com/images/sneakers_01.jpg"
+            }
+        ],
+        "category": "Casual",
+        "seller": "ShoeStore",
+        "stock": 100,
+        "numOfReviews": 10,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "rating": 5,
+                "comment": "Great sneakers, very comfortable!"
+            }
+        ],
+        "createdAt": "2024-08-28T12:00:00Z"
+    },
+    {
+        "name": "Oxford Leather Shoes",
+        "price": 89.99,
+        "description": "Elegant leather shoes suitable for formal occasions.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "oxfords_01",
+                "url": "https://example.com/images/oxfords_01.jpg"
+            }
+        ],
+        "category": "Formal",
+        "seller": "FormalWear Inc.",
+        "stock": 50,
+        "numOfReviews": 25,
+        "reviews": [
+            {
+                "name": "Jane Smith",
+                "rating": 4,
+                "comment": "Very classy and comfortable shoes."
+            }
+        ],
+        "createdAt": "2024-08-20T08:30:00Z"
+    },
+    {
+        "name": "Running Shoes",
+        "price": 69.99,
+        "description": "High-performance running shoes designed for comfort and durability.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "runningshoes_01",
+                "url": "https://example.com/images/runningshoes_01.jpg"
+            }
+        ],
+        "category": "Athletic",
+        "seller": "SportyGoods",
+        "stock": 75,
+        "numOfReviews": 15,
+        "reviews": [
+            {
+                "name": "Michael Brown",
+                "rating": 5,
+                "comment": "These shoes are perfect for my daily runs."
+            }
+        ],
+        "createdAt": "2024-08-15T10:15:00Z"
+    },
+    {
+        "name": "Chelsea Boots",
+        "price": 79.99,
+        "description": "Stylish ankle-length boots with elastic side panels.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "chelseaboots_01",
+                "url": "https://example.com/images/chelseaboots_01.jpg"
+            }
+        ],
+        "category": "Boots",
+        "seller": "BootWorld",
+        "stock": 40,
+        "numOfReviews": 20,
+        "reviews": [
+            {
+                "name": "Emily White",
+                "rating": 5,
+                "comment": "Love these boots, they go with everything!"
+            }
+        ],
+        "createdAt": "2024-08-10T14:00:00Z"
+    },
+    {
+        "name": "Leather Gladiator Sandals",
+        "price": 39.99,
+        "description": "Comfortable and durable gladiator sandals made from genuine leather.",
+        "ratings": 4.3,
+        "images": [
+            {
+                "public_id": "gladiatorsandals_01",
+                "url": "https://example.com/images/gladiatorsandals_01.jpg"
+            }
+        ],
+        "category": "Sandals",
+        "seller": "SummerStyles",
+        "stock": 60,
+        "numOfReviews": 12,
+        "reviews": [
+            {
+                "name": "Sophia Green",
+                "rating": 4,
+                "comment": "Great sandals for the summer."
+            }
+        ],
+        "createdAt": "2024-07-25T11:45:00Z"
+    },
+    {
+        "name": "Orthopedic Comfort Shoes",
+        "price": 59.99,
+        "description": "Designed for maximum comfort, ideal for those with foot pain.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "orthopedic_01",
+                "url": "https://example.com/images/orthopedic_01.jpg"
+            }
+        ],
+        "category": "Specialty",
+        "seller": "ComfortFit",
+        "stock": 30,
+        "numOfReviews": 8,
+        "reviews": [
+            {
+                "name": "Chris Black",
+                "rating": 5,
+                "comment": "These shoes have really helped with my foot pain."
+            }
+        ],
+        "createdAt": "2024-08-05T09:20:00Z"
+    },
+    {
+        "name": "Insulated Winter Boots",
+        "price": 99.99,
+        "description": "Warm and waterproof boots for harsh winter conditions.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "winterboots_01",
+                "url": "https://example.com/images/winterboots_01.jpg"
+            }
+        ],
+        "category": "Seasonal",
+        "seller": "WinterWear",
+        "stock": 25,
+        "numOfReviews": 18,
+        "reviews": [
+            {
+                "name": "David Blue",
+                "rating": 5,
+                "comment": "Perfect for winter, very warm and sturdy."
+            }
+        ],
+        "createdAt": "2024-08-01T12:10:00Z"
+    },
+    {
+        "name": "Brogue Dress Shoes",
+        "price": 109.99,
+        "description": "Premium leather brogue shoes with intricate detailing, perfect for formal events.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "broguedress_01",
+                "url": "https://example.com/images/broguedress_01.jpg"
+            }
+        ],
+        "category": "Formal",
+        "seller": "ElegantFootwear",
+        "stock": 35,
+        "numOfReviews": 22,
+        "reviews": [
+            {
+                "name": "Alexander White",
+                "rating": 5,
+                "comment": "Top-notch quality, love the detailing."
+            }
+        ],
+        "createdAt": "2024-07-30T15:45:00Z"
+    },
+    {
+        "name": "High-Top Basketball Shoes",
+        "price": 89.99,
+        "description": "Durable and supportive high-top basketball shoes for all levels of play.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "basketballshoes_01",
+                "url": "https://example.com/images/basketballshoes_01.jpg"
+            }
+        ],
+        "category": "Athletic",
+        "seller": "ProSports",
+        "stock": 80,
+        "numOfReviews": 19,
+        "reviews": [
+            {
+                "name": "Kevin Green",
+                "rating": 4,
+                "comment": "Great ankle support, perfect for the court."
+            }
+        ],
+        "createdAt": "2024-07-22T13:30:00Z"
+    },
+    {
+        "name": "Loafers with Tassels",
+        "price": 69.99,
+        "description": "Stylish and comfortable loafers with decorative tassels, ideal for casual or semi-formal settings.",
+        "ratings": 4.4,
+        "images": [
+            {
+                "public_id": "loafers_01",
+                "url": "https://example.com/images/loafers_01.jpg"
+            }
+        ],
+        "category": "Casual",
+        "seller": "UrbanStyle",
+        "stock": 45,
+        "numOfReviews": 13,
+        "reviews": [
+            {
+                "name": "Linda Brown",
+                "rating": 4,
+                "comment": "Very comfortable, love the tassel detail."
+            }
+        ],
+        "createdAt": "2024-07-18T09:50:00Z"
+    },
+    {
+        "name": "Espadrille Wedge Sandals",
+        "price": 59.99,
+        "description": "Chic espadrille wedge sandals, perfect for summer outings.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "wedgesandals_01",
+                "url": "https://example.com/images/wedgesandals_01.jpg"
+            }
+        ],
+        "category": "Sandals",
+        "seller": "SummerFashions",
+        "stock": 55,
+        "numOfReviews": 11,
+        "reviews": [
+            {
+                "name": "Diana Rose",
+                "rating": 5,
+                "comment": "These are my go-to sandals for summer."
+            }
+        ],
+        "createdAt": "2024-07-10T14:20:00Z"
+    },
+    {
+        "name": "Trail Running Shoes",
+        "price": 79.99,
+        "description": "Rugged trail running shoes designed for off-road adventures.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "trailrunningshoes_01",
+                "url": "https://example.com/images/trailrunningshoes_01.jpg"
+            }
+        ],
+        "category": "Athletic",
+        "seller": "OutdoorPro",
+        "stock": 65,
+        "numOfReviews": 17,
+        "reviews": [
+            {
+                "name": "Nathan Grey",
+                "rating": 5,
+                "comment": "Perfect for trail runs, excellent grip and comfort."
+            }
+        ],
+        "createdAt": "2024-07-05T08:00:00Z"
+    },
+    {
+        "name": "Heeled Ankle Boots",
+        "price": 89.99,
+        "description": "Trendy heeled ankle boots with a side zipper, perfect for a night out.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "heeledankleboots_01",
+                "url": "https://example.com/images/heeledankleboots_01.jpg"
+            }
+        ],
+        "category": "Boots",
+        "seller": "ChicShoes",
+        "stock": 35,
+        "numOfReviews": 14,
+        "reviews": [
+            {
+                "name": "Emma Black",
+                "rating": 5,
+                "comment": "These boots are both stylish and comfortable."
+            }
+        ],
+        "createdAt": "2024-06-30T11:15:00Z"
+    },
+    {
+        "name": "Flip Flops",
+        "price": 19.99,
+        "description": "Lightweight and comfortable flip flops, ideal for the beach or poolside.",
+        "ratings": 4.3,
+        "images": [
+            {
+                "public_id": "flipflops_01",
+                "url": "https://example.com/images/flipflops_01.jpg"
+            }
+        ],
+        "category": "Sandals",
+        "seller": "BeachGear",
+        "stock": 150,
+        "numOfReviews": 8,
+        "reviews": [
+            {
+                "name": "Lucas Green",
+                "rating": 4,
+                "comment": "Simple and effective, perfect for the beach."
+            }
+        ],
+        "createdAt": "2024-06-25T09:00:00Z"
+    },
+    {
+        "name": "Minimalist Running Shoes",
+        "price": 89.99,
+        "description": "Lightweight and flexible shoes designed to mimic the feeling of barefoot running.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "minimalistrunningshoes_01",
+                "url": "https://example.com/images/minimalistrunningshoes_01.jpg"
+            }
+        ],
+        "category": "Athletic",
+        "seller": "ProRunners",
+        "stock": 60,
+        "numOfReviews": 18,
+        "reviews": [
+            {
+                "name": "Oliver Brown",
+                "rating": 5,
+                "comment": "Feels like running barefoot, but with great protection."
+            }
+        ],
+        "createdAt": "2024-06-20T10:50:00Z"
+    },
+    {
+        "name": "Hiking Boots",
+        "price": 119.99,
+        "description": "Durable and supportive hiking boots designed for rough terrain.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "hikingboots_01",
+                "url": "https://example.com/images/hikingboots_01.jpg"
+            }
+        ],
+        "category": "Boots",
+        "seller": "MountainGear",
+        "stock": 40,
+        "numOfReviews": 23,
+        "reviews": [
+            {
+                "name": "Peter Grey",
+                "rating": 5,
+                "comment": "Perfect for long hikes, very durable."
+            }
+        ],
+        "createdAt": "2024-06-15T08:45:00Z"
+    },
+    {
+        "name": "Suede Moccasins",
+        "price": 79.99,
+        "description": "Soft suede moccasins with a comfortable inner lining, ideal for casual wear.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "suede_moccasins_01",
+                "url": "https://example.com/images/suede_moccasins_01.jpg"
+            }
+        ],
+        "category": "Casual",
+        "seller": "SoftShoes",
+        "stock": 55,
+        "numOfReviews": 12,
+        "reviews": [
+            {
+                "name": "Grace White",
+                "rating": 4,
+                "comment": "Very comfortable and stylish, love them."
+            }
+        ],
+        "createdAt": "2024-06-10T07:30:00Z"
+    },
+    {
+        "name": "CrossFit Training Shoes",
+        "price": 99.99,
+        "description": "Versatile training shoes designed for high-intensity CrossFit workouts.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "crossfitshoes_01",
+                "url": "https://example.com/images/crossfitshoes_01.jpg"
+            }
+        ],
+        "category": "Athletic",
+        "seller": "FitLife",
+        "stock": 70,
+        "numOfReviews": 20,
+        "reviews": [
+            {
+                "name": "Ryan Black",
+                "rating": 5,
+                "comment": "Perfect for my CrossFit sessions, very durable."
+            }
+        ],
+        "createdAt": "2024-06-05T14:10:00Z"
+    },
+    {
+        "name": "Waterproof Work Boots",
+        "price": 129.99,
+        "description": "Heavy-duty waterproof work boots designed for tough environments.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "workboots_01",
+                "url": "https://example.com/images/workboots_01.jpg"
+            }
+        ],
+        "category": "Boots",
+        "seller": "WorkGear",
+        "stock": 30,
+        "numOfReviews": 15,
+        "reviews": [
+            {
+                "name": "Daniel Green",
+                "rating": 5,
+                "comment": "Great for construction work, very sturdy."
+            }
+        ],
+        "createdAt": "2024-06-01T12:30:00Z"
+    },
+    {
+        "name": "Platform Sandals",
+        "price": 59.99,
+        "description": "Fashionable platform sandals with a chunky sole, perfect for summer.",
+        "ratings": 4.4,
+        "images": [
+            {
+                "public_id": "platformsandals_01",
+                "url": "https://example.com/images/platformsandals_01.jpg"
+            }
+        ],
+        "category": "Sandals",
+        "seller": "TrendySteps",
+        "stock": 60,
+        "numOfReviews": 12,
+        "reviews": [
+            {
+                "name": "Hannah Grey",
+                "rating": 4,
+                "comment": "Stylish and comfortable, love the height."
+            }
+        ],
+        "createdAt": "2024-05-28T15:00:00Z"
+    },
+    {
+        "name": "Dress Loafers",
+        "price": 99.99,
+        "description": "Sleek dress loafers perfect for formal and business occasions.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "dressloafers_01",
+                "url": "https://example.com/images/dressloafers_01.jpg"
+            }
+        ],
+        "category": "Formal",
+        "seller": "ExecutiveStyle",
+        "stock": 50,
+        "numOfReviews": 14,
+        "reviews": [
+            {
+                "name": "Sophia White",
+                "rating": 5,
+                "comment": "Perfect for work, very classy."
+            }
+        ],
+        "createdAt": "2024-05-20T10:20:00Z"
+    }
+]
