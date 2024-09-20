@@ -7,13 +7,13 @@
         "images": [
             {
                 "public_id": "sneakers_01",
-                "url": "https://example.com/images/sneakers_01.jpg"
+                "url": "https://unsplash.com/photos/a-pair-of-white-nike-sneakers-on-a-red-background-36MiHf2KKr8"
             }
         ],
         "category": "Casual",
         "seller": "ShoeStore",
         "stock": 100,
-        "numOfReviews": 10,
+        "numOfReviews": 0,
         "reviews": [
             {
                 "name": "John Doe",
@@ -31,13 +31,13 @@
         "images": [
             {
                 "public_id": "oxfords_01",
-                "url": "https://example.com/images/oxfords_01.jpg"
+                "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ubuy.ke%2Fen%2Fproduct%2F2E0BE0US-desai-dolcara-mens-genuine-leather-oxford-dress-shoes-for-men-classic-formal-business-lace-up-mens-d&psig=AOvVaw2g0d8bNR30dUE2yd0itZp6&ust=1726925851978000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjKoKLS0YgDFQAAAAAdAAAAABAE"
             }
         ],
         "category": "Formal",
         "seller": "FormalWear Inc.",
         "stock": 50,
-        "numOfReviews": 25,
+        "numOfReviews": 5,
         "reviews": [
             {
                 "name": "Jane Smith",
@@ -55,13 +55,13 @@
         "images": [
             {
                 "public_id": "runningshoes_01",
-                "url": "https://example.com/images/runningshoes_01.jpg"
+                "url": "https://unsplash.com/photos/unpaired-red-nike-sneaker-164_6wVEHfI"
             }
         ],
         "category": "Athletic",
         "seller": "SportyGoods",
         "stock": 75,
-        "numOfReviews": 15,
+        "numOfReviews": 5,
         "reviews": [
             {
                 "name": "Michael Brown",
@@ -79,13 +79,13 @@
         "images": [
             {
                 "public_id": "chelseaboots_01",
-                "url": "https://example.com/images/chelseaboots_01.jpg"
+                "url": "https://www.cheaney.co.uk/images/cheaney-barnes-iii-b-chelsea-boot-in-black-grain-leather-p1762-12369_image.jpg"
             }
         ],
         "category": "Boots",
         "seller": "BootWorld",
         "stock": 40,
-        "numOfReviews": 20,
+        "numOfReviews": 0,
         "reviews": [
             {
                 "name": "Emily White",
@@ -103,13 +103,13 @@
         "images": [
             {
                 "public_id": "gladiatorsandals_01",
-                "url": "https://example.com/images/gladiatorsandals_01.jpg"
+                "url": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/81/656816/1.jpg?0572"
             }
         ],
         "category": "Sandals",
         "seller": "SummerStyles",
         "stock": 60,
-        "numOfReviews": 12,
+        "numOfReviews": 2,
         "reviews": [
             {
                 "name": "Sophia Green",
@@ -127,7 +127,7 @@
         "images": [
             {
                 "public_id": "orthopedic_01",
-                "url": "https://example.com/images/orthopedic_01.jpg"
+                "url": "https://m.media-amazon.com/images/I/71Bg5FBWvNS._AC_SL1500_.jpg"
             }
         ],
         "category": "Specialty",
@@ -151,7 +151,7 @@
         "images": [
             {
                 "public_id": "winterboots_01",
-                "url": "https://example.com/images/winterboots_01.jpg"
+                "url": "https://via.placeholder.com/800x400/33FF57/FFFFFF"
             }
         ],
         "category": "Seasonal",
@@ -175,13 +175,13 @@
         "images": [
             {
                 "public_id": "broguedress_01",
-                "url": "https://example.com/images/broguedress_01.jpg"
+                "url": "https://m.media-amazon.com/images/I/61UoKGHU7rL._AC_SL1500_.jpg"
             }
         ],
         "category": "Formal",
         "seller": "ElegantFootwear",
         "stock": 35,
-        "numOfReviews": 22,
+        "numOfReviews": 2,
         "reviews": [
             {
                 "name": "Alexander White",
@@ -199,13 +199,13 @@
         "images": [
             {
                 "public_id": "basketballshoes_01",
-                "url": "https://example.com/images/basketballshoes_01.jpg"
+                "url": "https://i5.walmartimages.com/seo/FUBU-Men-s-Zone-High-top-Basketball-Shoes_c2fd0ffd-a62d-448d-9f5b-68c91032dea3.8ecc97b2756da27d60558e6cc35048e3.jpeg"
             }
         ],
         "category": "Athletic",
         "seller": "ProSports",
         "stock": 80,
-        "numOfReviews": 19,
+        "numOfReviews": 9,
         "reviews": [
             {
                 "name": "Kevin Green",
@@ -223,13 +223,13 @@
         "images": [
             {
                 "public_id": "loafers_01",
-                "url": "https://example.com/images/loafers_01.jpg"
+                "url": "https://m.media-amazon.com/images/I/616U6TXzMCL._AC_SL1500_.jpg"
             }
         ],
         "category": "Casual",
         "seller": "UrbanStyle",
         "stock": 45,
-        "numOfReviews": 13,
+        "numOfReviews": 3,
         "reviews": [
             {
                 "name": "Linda Brown",
@@ -247,7 +247,7 @@
         "images": [
             {
                 "public_id": "wedgesandals_01",
-                "url": "https://example.com/images/wedgesandals_01.jpg"
+                "url": "https://m.media-amazon.com/images/I/61rNztVGGzL._AC_SL1500_.jpg"
             }
         ],
         "category": "Sandals",
@@ -271,7 +271,7 @@
         "images": [
             {
                 "public_id": "trailrunningshoes_01",
-                "url": "https://example.com/images/trailrunningshoes_01.jpg"
+                "url": "https://m.media-amazon.com/images/I/71bqZF-iziL._AC_SL1500_.jpg"
             }
         ],
         "category": "Athletic",
@@ -295,13 +295,13 @@
         "images": [
             {
                 "public_id": "heeledankleboots_01",
-                "url": "https://example.com/images/heeledankleboots_01.jpg"
+                "url": "https://target.scene7.com/is/image/Target/GUEST_8698b3ab-e7cf-4117-9716-c9a1a21fcb47?wid=800&hei=800&qlt=80&fmt=webp"
             }
         ],
         "category": "Boots",
         "seller": "ChicShoes",
         "stock": 35,
-        "numOfReviews": 14,
+        "numOfReviews": 4,
         "reviews": [
             {
                 "name": "Emma Black",
@@ -315,11 +315,11 @@
         "name": "Flip Flops",
         "price": 19.99,
         "description": "Lightweight and comfortable flip flops, ideal for the beach or poolside.",
-        "ratings": 4.3,
+        "ratings": 3,
         "images": [
             {
                 "public_id": "flipflops_01",
-                "url": "https://example.com/images/flipflops_01.jpg"
+                "url": "https://m.media-amazon.com/images/I/612k-UWv9SL._AC_SL1500_.jpg"
             }
         ],
         "category": "Sandals",
@@ -339,17 +339,17 @@
         "name": "Minimalist Running Shoes",
         "price": 89.99,
         "description": "Lightweight and flexible shoes designed to mimic the feeling of barefoot running.",
-        "ratings": 4.7,
+        "ratings": 7,
         "images": [
             {
                 "public_id": "minimalistrunningshoes_01",
-                "url": "https://example.com/images/minimalistrunningshoes_01.jpg"
+                "url": "https://m.media-amazon.com/images/I/81MxODRdTjL._AC_SL1500_.jpg"
             }
         ],
         "category": "Athletic",
         "seller": "ProRunners",
         "stock": 60,
-        "numOfReviews": 18,
+        "numOfReviews": 8,
         "reviews": [
             {
                 "name": "Oliver Brown",
@@ -363,17 +363,17 @@
         "name": "Hiking Boots",
         "price": 119.99,
         "description": "Durable and supportive hiking boots designed for rough terrain.",
-        "ratings": 4.9,
+        "ratings": 9,
         "images": [
             {
                 "public_id": "hikingboots_01",
-                "url": "https://example.com/images/hikingboots_01.jpg"
+                "url": "https://via.placeholder.com/800x400/33FF57/FFFFFF"
             }
         ],
         "category": "Boots",
         "seller": "MountainGear",
         "stock": 40,
-        "numOfReviews": 23,
+        "numOfReviews": 3,
         "reviews": [
             {
                 "name": "Peter Grey",
@@ -391,13 +391,13 @@
         "images": [
             {
                 "public_id": "suede_moccasins_01",
-                "url": "https://example.com/images/suede_moccasins_01.jpg"
+                "url": "https://m.media-amazon.com/images/I/51uMrlyUtXL._AC_SL1500_.jpg"
             }
         ],
         "category": "Casual",
         "seller": "SoftShoes",
         "stock": 55,
-        "numOfReviews": 12,
+        "numOfReviews": 2,
         "reviews": [
             {
                 "name": "Grace White",
@@ -411,17 +411,17 @@
         "name": "CrossFit Training Shoes",
         "price": 99.99,
         "description": "Versatile training shoes designed for high-intensity CrossFit workouts.",
-        "ratings": 4.8,
+        "ratings": 8,
         "images": [
             {
                 "public_id": "crossfitshoes_01",
-                "url": "https://example.com/images/crossfitshoes_01.jpg"
+                "url": "https://m.media-amazon.com/images/I/71gs560k6EL._AC_SL1500_.jpg"
             }
         ],
         "category": "Athletic",
         "seller": "FitLife",
         "stock": 70,
-        "numOfReviews": 20,
+        "numOfReviews": 0,
         "reviews": [
             {
                 "name": "Ryan Black",
@@ -435,17 +435,17 @@
         "name": "Waterproof Work Boots",
         "price": 129.99,
         "description": "Heavy-duty waterproof work boots designed for tough environments.",
-        "ratings": 4.7,
+        "ratings": 7,
         "images": [
             {
                 "public_id": "workboots_01",
-                "url": "https://example.com/images/workboots_01.jpg"
+                "url": "https://m.media-amazon.com/images/I/71iBezxOsDL._AC_SL1400_.jpg"
             }
         ],
         "category": "Boots",
         "seller": "WorkGear",
         "stock": 30,
-        "numOfReviews": 15,
+        "numOfReviews": 5,
         "reviews": [
             {
                 "name": "Daniel Green",
@@ -463,13 +463,13 @@
         "images": [
             {
                 "public_id": "platformsandals_01",
-                "url": "https://example.com/images/platformsandals_01.jpg"
+                "url": "https://via.placeholder.com/800x400/33FF57/FFFFFF"
             }
         ],
         "category": "Sandals",
         "seller": "TrendySteps",
         "stock": 60,
-        "numOfReviews": 12,
+        "numOfReviews": 2,
         "reviews": [
             {
                 "name": "Hannah Grey",
@@ -487,13 +487,13 @@
         "images": [
             {
                 "public_id": "dressloafers_01",
-                "url": "https://example.com/images/dressloafers_01.jpg"
+                "url": "https://i5.walmartimages.com/seo/PAIR-OF-KINGS-MENS-ACE-FORMAL-DRESS-LOAFERS-ACE-MENS-WHISKEY-DRESS-LOAFERS-whiskey-8-5_441f16f9-8a3a-40aa-8ed5-04ffb8d42b3f.e9e550418ac77aab95eb42b1b91efb1a.jpeg"
             }
         ],
         "category": "Formal",
         "seller": "ExecutiveStyle",
         "stock": 50,
-        "numOfReviews": 14,
+        "numOfReviews": 4,
         "reviews": [
             {
                 "name": "Sophia White",

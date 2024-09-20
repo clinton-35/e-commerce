@@ -1,15 +1,24 @@
-const product = require("../models/product")
+const Product = require("../models/product");
 
+//create new product  => /api/v1/product/new
+exports.newProduct = async (req, res, next) => {
 
+    const product = await Product.create(req.body);
+
+    res.status(201).json({
+        success:true,
+        product
+    })
+}
 //create new product => /api/v1/product/new
 exports.newProduct = async (req, res, next) => {
 
-    const product = await product.create(req.body);
+    const product = await Product.create(req.body);
 
     res.status(201).json({
 
         success:true,
-        product:
+        product
 
     })
 }
@@ -17,6 +26,6 @@ exports.newProduct = async (req, res, next) => {
 exports.getProducts = (req, res, next) =>{
     res.status(200).json({
         success: true,
-        message:"Tis route will show all products in the database"
+        message:"This route will show all products in the database"
     })
 }
